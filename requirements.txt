@@ -1,1 +1,10 @@
 Flask==3.0.3
+Flask-Cors
+ultralytics
+huggingface-hub
+easyocr
+Pillow
+numpy
+scikit-learn
+opencv-python
+python-dotenv
